@@ -44,6 +44,9 @@
         .book-details {
             flex-grow: 1;
         }
+        
+        a { color: inherit; } 
+
 
         .book-title {
             font-size: 1.25rem;
@@ -77,24 +80,24 @@
     </header>
 
     <div class="container">
-        <div class="book">
+        <!-- <div class="book">
             <div class="book-icon">📘</div>
             <div class="book-details">
                 <p class="book-title">Book Title 1</p>
                 <p class="book-category">Category: Fiction</p>
             </div>
-        </div>
+        </div> -->
 
         <!-- Dynamically list books -->
         <?php listBooks();?>
 
-        <div class="book">
+        <!-- <div class="book">
             <div class="book-icon">📙</div>
             <div class="book-details">
                 <p class="book-title">Book Title 3</p>
                 <p class="book-category">Category: History</p>
             </div>
-        </div>
+        </div> -->
     </div>
 
     <footer>
