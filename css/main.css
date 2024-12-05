@@ -8,7 +8,7 @@
     2.0 Header Section
     3.0 Slider Section
     4.0 Promo Section
-    5.0 Causes Section
+    5.0 Leadership Section
     6.0 About Section
     7.0 Campaigns Section
     8.0 Team Section
@@ -684,7 +684,7 @@ a,a:hover, .overlay, img, .form-control,  .form-control:hover, button{
 }
 
 /* ==========================================================================
-   5.0 Causes Section
+   5.0 Leadership Section
    ========================================================================== */
 .causes-section{
     position: relative;
@@ -710,13 +710,13 @@ a,a:hover, .overlay, img, .form-control,  .form-control:hover, button{
     overflow: inherit;
 }
 .causes-thumb .progress .progress-bar{
-    background-color: #f8b864;
+    background-color: #00800f;
     position: relative;
 }
 .causes-thumb .progress .progress-bar span{
     position: absolute;
     display: block;
-    background-color: #f8b864;
+    background-color: #00800f;
     right: -2px;
     top: -10px;
     height: 30px;
@@ -734,7 +734,7 @@ a,a:hover, .overlay, img, .form-control,  .form-control:hover, button{
     left: -10px;
     top: -10px;
     border-radius: 50%;
-    border: 10px solid rgba(248, 184, 100, 0.8);
+    border: 10px solid rgba(3, 141, 24, 0.8);
 }
 .causes-details{
     background-color: #fff;
@@ -750,7 +750,7 @@ a,a:hover, .overlay, img, .form-control,  .form-control:hover, button{
     position: absolute;
     top: 10px;
     right: 10px;
-    background-color: rgba(248, 184, 100, 0.8);
+    background-color: #019c2fcc;
     color: #fff;
     font-size: 14px;
     font-family: "Jost", sans-serif;
@@ -765,7 +765,7 @@ a,a:hover, .overlay, img, .form-control,  .form-control:hover, button{
     font-size: 12px;
 }
 .causes-content .donate-btn:hover{
-    background-color: #f8b864;
+    background-color: #00800f;
     transition: all 0.2s ease-in-out;
 }
 .donation-box p{
@@ -773,7 +773,7 @@ a,a:hover, .overlay, img, .form-control,  .form-control:hover, button{
     margin-right: 10px;
 }
 .donation-box i{
-    color: #f8b864;
+    color: #00800f;
     margin-right: 5px;
 }
 .causes-content .read-more{
