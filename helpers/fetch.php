@@ -19,8 +19,8 @@ function listBooks() {
        echo '<div class="book">
                     <div class="book-icon">📗</div>
                     <div class="book-details">
-                        <p class="book-title">'.$book['book_title'].'</p>
-                        <p class="book-category">Category:'. $book['book_category'].'</p>
+                        <a href="'.$book['document'].'" class="book-title">'.$book['book_title'].'</a>
+                        <p class="book-category">Category: '. $book['book_category'].'</p>
                     </div>
                 </div>';
     }
