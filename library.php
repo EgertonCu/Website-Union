@@ -67,6 +67,10 @@
         }
     </style>
 </head>
+
+<!-- Include fetch file -->
+<?php include 'helpers/fetch.php';?>
+
 <body>
     <header>
         <h1>eLibrary</h1>
@@ -81,13 +85,8 @@
             </div>
         </div>
 
-        <div class="book">
-            <div class="book-icon">📗</div>
-            <div class="book-details">
-                <p class="book-title">Book Title 2</p>
-                <p class="book-category">Category: Science</p>
-            </div>
-        </div>
+        <!-- Dynamically list books -->
+        <?php listBooks();?>
 
         <div class="book">
             <div class="book-icon">📙</div>
