@@ -232,7 +232,7 @@ button{
 }
 
 .site-preloader-wrap .spinner {
-    background-color: #ffd83f;
+    background-color: #088b01;
     position: absolute;
     left: 50%;
     top: 50%;
@@ -466,7 +466,7 @@ a,a:hover, .overlay, img, .form-control,  .form-control:hover, button{
     transition: color 0.3s ease 0s, padding 0.3s ease 0s;
 }
 #mainmenu li > ul > li:hover a{
-    color: #f8b864;
+    color: #088b01;
 }
 #mainmenu li > ul ul{
     background-color: #fff;
@@ -676,7 +676,7 @@ a,a:hover, .overlay, img, .form-control,  .form-control:hover, button{
 }
 .promo-content a:hover{
     text-decoration: underline;
-    color: #f8b864;
+    color: #088b01;
 }
 .promo-section-2 .promo-content{padding: 0 30px;}
 .promo-section-2 .row .col-md-4:last-child > .promo-content{
@@ -847,7 +847,7 @@ a,a:hover, .overlay, img, .form-control,  .form-control:hover, button{
     padding: 150px 0;
 }
 .campaigns-wrap h4{
-    background-color: rgba(248, 184, 100, 0.8);
+    background-color: rgba(2, 156, 53, 0.8);
     display: inline-block;
     padding: 10px 15px;
     border-radius: 5px;
@@ -873,14 +873,14 @@ a,a:hover, .overlay, img, .form-control,  .form-control:hover, button{
     margin-bottom: 40px;
 }
 .campaigns-wrap .progress .progress-bar{
-    background-color: #f8b864;
+    background-color: #088b01;
     position: relative;
     border-radius: 30px;
 }
 .campaigns-wrap .progress .progress-bar span{
     position: absolute;
     display: block;
-    background-color: #f8b864;
+    background-color: #088b01;
     right: -2px;
     top: -10px;
     height: 30px;
@@ -898,7 +898,7 @@ a,a:hover, .overlay, img, .form-control,  .form-control:hover, button{
     left: -10px;
     top: -10px;
     border-radius: 50%;
-    border: 10px solid rgba(248, 184, 100, 0.8);
+    border: 10px solid rgba(1, 129, 37, 0.8);
 }
 
 .campaigns-wrap .donation-box h3{
@@ -971,7 +971,7 @@ a,a:hover, .overlay, img, .form-control,  .form-control:hover, button{
     width: 100%;
 }
 .team-details h3{
-    color: #f8b864;
+    color: #088b01;
     font-size: 20px;
     font-weight: 500;
     letter-spacing: 0;
@@ -1016,7 +1016,7 @@ a,a:hover, .overlay, img, .form-control,  .form-control:hover, button{
     line-height: 35px;
 }
 .check-list i{
-    color: #f8b864;
+    color: #088b01;
     margin-right: 10px;
 }
 
@@ -1046,7 +1046,7 @@ a,a:hover, .overlay, img, .form-control,  .form-control:hover, button{
 .counters .counter-content h3{
 	font-size: 48px;
 	margin: 10px 0;
-	color: #f8b864;
+	color: #088b01;
     font-weight: 600;
 }
 .counters .counter-content h4{
@@ -1075,7 +1075,7 @@ a,a:hover, .overlay, img, .form-control,  .form-control:hover, button{
     border: 1px dashed #ddd;
 }
 .event-info i{
-    color: #f8b864;
+    color: #088b01;
     margin-right: 10px;
 }
 .event-info p{
@@ -1092,7 +1092,7 @@ a,a:hover, .overlay, img, .form-control,  .form-control:hover, button{
 /*Owl Navigation*/
 .owl-nav{}
 .owl-nav div{
-    background-color: #f8b864;
+    background-color: #088b01;
     color: #fff;
     border-radius: 2px;
     width: 40px;
@@ -1157,7 +1157,7 @@ a,a:hover, .overlay, img, .form-control,  .form-control:hover, button{
     transition: all 0.5s ease-in-out;
 }
 .testimonial-carousel .owl-dots .owl-dot.active{
-    background-color: #f8b864;
+    background-color: #088b01;
     -webkit-transform: scale(1.2);
     transform: scale(1.2);
     transition: all 0.5s ease-in-out;
@@ -1205,7 +1205,7 @@ a,a:hover, .overlay, img, .form-control,  .form-control:hover, button{
 }
 .widget-content .social-icon li a{
     display: inline-block;
-    color: #f8b864;
+    color: #088b01;
 }
 .widget-content .social-icon li a:hover{
     color: #fff;
@@ -1216,7 +1216,7 @@ a,a:hover, .overlay, img, .form-control,  .form-control:hover, button{
     display: block;
 }
 .widget-content .widget-link li a:hover{
-    color: #f8b864;
+    color: #088b01;
     text-decoration: underline;
 }
 .widget-content .address li{
@@ -1226,7 +1226,7 @@ a,a:hover, .overlay, img, .form-control,  .form-control:hover, button{
     color: #999;
 }
 .widget-content .address li i{
-    color: #f8b864;
+    color: #088b01;
     margin-right: 10px;
 }
 /* ==========================================================================
@@ -1249,7 +1249,7 @@ a,a:hover, .overlay, img, .form-control,  .form-control:hover, button{
     display: inline-block;
 }
 .hero-content h4{
-    color: #f8b864;
+    color: #088b01;
 }
 .hero-content p{
     color: #ddd;
@@ -1258,7 +1258,7 @@ a,a:hover, .overlay, img, .form-control,  .form-control:hover, button{
    15.0 Page Header Section
    ========================================================================== */
 .pager-header{
-    background-image: url(../img/page-header-bg.jpg);
+    background-image: url(../img/Ministries\ Banner.png);
 	background-repeat: no-repeat;
 	background-attachment: scroll;
 	background-position: center center;
@@ -1294,7 +1294,7 @@ a,a:hover, .overlay, img, .form-control,  .form-control:hover, button{
     text-decoration: underline;
 }
 .breadcrumb .active{
-    color: #f8b864;
+    color: #088b01;
     font-weight: 600;
     font-family: "Jost",sans-serif;
     text-transform: uppercase;
@@ -1311,7 +1311,7 @@ a,a:hover, .overlay, img, .form-control,  .form-control:hover, button{
    16.0 CTA Section
    ========================================================================== */
 .cta-section{
-    background-image: url(../img/cta-bg.jpg);
+    background-image: url(../img/Ministry\ Contact\ Us.png);
 	background-repeat: no-repeat;
 	background-attachment: scroll;
 	background-position: center center;
@@ -1349,7 +1349,7 @@ a,a:hover, .overlay, img, .form-control,  .form-control:hover, button{
     cursor: pointer;
 }
 .gallery-filter li.active{
-    background-color: #f8b864;
+    background-color: #088b01;
     color: #fff;
 }
 .gallery-wrap{
@@ -1376,7 +1376,7 @@ a,a:hover, .overlay, img, .form-control,  .form-control:hover, button{
     transition: all 0.3s ease-in-out;
 }
 .gallery-wrap .hover a{
-    background-color: #f8b864;
+    background-color: #088b01;
     color: #fff;
     height: 40px;
     width: 40px;
@@ -1929,8 +1929,8 @@ span.date{
     box-shadow: 0px 16px 28px 0px rgba(0, 0, 0, 0.20);
 }
 .pagination_wrap li a.active{
-    background-color: #f8b864;
-    border: 1px solid #f8b864;
+    background-color: #088b01;
+    border: 1px solid #088b01;
     color: #fff;
 }
 
@@ -2022,14 +2022,14 @@ span.date{
     margin-left: 20px;
 }
 .footer-social li a:hover{
-    color: #f8b864;
+    color: #088b01;
 }
 
 /* ==========================================================================
    22.0 Scroll To Top
    ========================================================================== */
 #scroll-to-top{
-    background-color: #f8b864;
+    background-color: #088b01;
     display: none;
     width: 45px;
     height: 45px;
@@ -2044,6 +2044,6 @@ span.date{
     z-index: 999;
 }
 #scroll-to-top:hover{
-    background-color: #ffb451;
+    background-color: #088b01;
     color: #fff;
 }
