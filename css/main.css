@@ -654,7 +654,7 @@ a,a:hover, .overlay, img, .form-control,  .form-control:hover, button{
 .promo-wrap .row{
     background-color: #fff;
     box-shadow: 0px 16px 28px 0px rgba(0, 0, 0, 0.15);
-    border-radius: 50px;
+    border-radius: 60px;
 }
 .promo-wrap .row .col-md-4:last-child > .promo-content{
     border: none;
